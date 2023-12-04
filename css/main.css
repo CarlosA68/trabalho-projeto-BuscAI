@@ -76,6 +76,16 @@ body {
     padding: 20px; /* Espaçamento interno */
   }
 
+  #formPesquisa input{
+    width: 250px;
+    padding: 10px;
+  }
+
+  #Contato input{
+    width: 250px;
+    padding: 10px;
+  }
+
   #rodape{
     margin-top: 50px;
     border-top: 2px solid #ccc;  
